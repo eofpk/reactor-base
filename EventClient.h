@@ -1,5 +1,5 @@
-#ifndef DIAGNOSTICS_CLIENT_H
-#define DIAGNOSTICS_CLIENT_H
+#ifndef EVENT_CLIENT_H
+#define EVENT_CLIENT_H
 
 #include "Handle.h"
 #include "ServerEventNotifier.h"

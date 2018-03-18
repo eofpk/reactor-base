@@ -1,5 +1,5 @@
-#ifndef DIAGNOSTICS_SERVER_H
-#define DIAGNOSTICS_SERVER_H
+#ifndef EVENT_SERVER_H
+#define EVENT_SERVER_H
 
 /* An opaque, incomplete type for the FIRST-CLASS ADT. */
 typedef struct DiagnosticsServer* DiagnosticsServerPtr;
